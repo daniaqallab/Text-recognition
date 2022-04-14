@@ -1,1 +1,1 @@
-# Text-recognition
+# Text-recognition-CRNN
